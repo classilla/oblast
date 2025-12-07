@@ -15,7 +15,7 @@ Freeware under the Floodgap Free Software License.
 ## How to run
 
 1. You'll need either a real Commodore 64, real Commodore 128 in 64 mode, or a 100% compatible emulator like VICE, plus a joystick. Connect the joystick to control port 2. Oblast can run on PAL or NTSC computers.
-2. Download Oblast [from the Releases tab](releases/). Oblast is a single `.prg` (program) file that comes in both compressed and uncompressed versions. The compressed version is significantly smaller but takes a few seconds to decompress when run. Although both versions will work on any system, one may be more optimal for your setup than the other. Use the compressed version when loading from a very slow or space-limited medium like a real floppy disk or cassette tape. Use the uncompressed version when loading from a very fast medium, such as an emulator or a cartridge that can load files via DMA like a 1541-Ultimate.
+2. Download Oblast [from the Releases tab](https://github.com/classilla/oblast/releases). Oblast is a single `.prg` (program) file that comes in both compressed and uncompressed versions. The compressed version is significantly smaller but takes a few seconds to decompress when run. Although both versions will work on any system, one may be more optimal for your setup than the other. Use the compressed version when loading from a very slow or space-limited medium like a real floppy disk or cassette tape. Use the uncompressed version when loading from a very fast medium, such as an emulator or a cartridge that can load files via DMA like a 1541-Ultimate.
 3. Oblast `LOAD`s and `RUN`s like a BASIC program. `LOAD` it from your device (such as `LOAD"OBLAST",9`) and `RUN` it.
 
 ## How to play one of the default game modes
